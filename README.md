@@ -36,7 +36,7 @@ lang: zh-tw
 :::danger
 **教授!! 我只是想畢業阿~**
 
-![](https://i.imgur.com/7PEXUdM.png =400x)
+![](https://i.imgur.com/7PEXUdM.png )
 
 \讓我畢業啦/\讓我畢業啦/\讓我畢業啦/ (翻桌)
 :::
