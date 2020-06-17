@@ -9,7 +9,8 @@ lang: zh-tw
 
 ## 連動機制
 
-基本上不要混亂的方法，就是
+基本上不要混亂的方法，就是都與master同步。
+雖然說可以
 
 ## HackMD和GitHub的markdown差異
 
