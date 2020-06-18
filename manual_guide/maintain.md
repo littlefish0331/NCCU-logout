@@ -26,24 +26,27 @@ lang: zh-tw
 
 ## 文章標題與md檔名對應
 
-**manual_guide:**
+| 文章標題                     | md檔名      | Link |
+|------------------------------|-------------|------|
+| 內嵌風格                     | styles      |      |
+| 維護注意事項                 | maintain    |      |
+| 政大碩士 - 畢業+離校教戰手則 | manual      |      |
+
+**政大碩士 - 畢業+離校教戰手則 manual_guide:**
 
 | 文章標題                     | md檔名      | Link |
 |------------------------------|-------------|------|
 | 與作者聯繫                   | contact     |      |
 | 感謝貢獻                     | contributor |      |
 | 常見問題                     | FAQ         |      |
-| 內嵌風格                     | styles      |      |
-| 維護注意事項                 | maintain    |      |
-| 政大碩士 - 畢業+離校教戰手則 | manual      |      |
 | 計畫說明                     | README      |      |
 
-**thesis_format:**
+**論文格式 thesis_format:**
 
-**schedule_invite:**
+**調查口試時間、邀請老師 schedule_invite:**
 
-**oral_meal:**
+**口試餐點 oral_meal:**
 
-**binding_thesis:**
+**裝訂論文 binding_thesis:**
 
-**logout_RPG:**
+**離校RPG logout_RPG:**
