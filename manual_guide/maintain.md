@@ -23,3 +23,27 @@ lang: zh-tw
 |----------------------------|--------|-------------------|
 | Enter換行(軟換行)           | O      | X，需要句尾空兩格，<br>或是加上反斜線`\` |
 | :::<br>的標註區塊<br>::: | O      | X                 |
+
+## 文章標題與md檔名對應
+
+**manual_guide:**
+
+| 文章標題                     | md檔名      | Link |
+|------------------------------|-------------|------|
+| 與作者聯繫                   | contact     |      |
+| 感謝貢獻                     | contributor |      |
+| 常見問題                     | FAQ         |      |
+| 內嵌風格                     | styles      |      |
+| 維護注意事項                 | maintain    |      |
+| 政大碩士 - 畢業+離校教戰手則 | manual      |      |
+| 計畫說明                     | README      |      |
+
+**thesis_format:**
+
+**schedule_invite:**
+
+**oral_meal:**
+
+**binding_thesis:**
+
+**logout_RPG:**
