@@ -20,4 +20,4 @@ lang: zh-tw
 
 請對該貼文，點擊貼文的時間，如下圖，即可獲得該貼文的網址
 
-![image04](./image/image04.jpg)
+![image04](https://github.com/littlefish0331/NCCU-logout/blob/master/manual_guide/image/image04.jpg?raw=true =500x)
