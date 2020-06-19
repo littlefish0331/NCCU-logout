@@ -1,5 +1,5 @@
 ---
-title: manual
+title: content
 tags: NCCU-logout
 disqus: ncculogout
 lang: zh-tw
@@ -7,7 +7,7 @@ lang: zh-tw
 
 {%hackmd @NCCU-logout/styles%}
 
-###### tags: `manual`
+###### tags: `content`
 
 # 政大碩士 - 畢業+離校教戰手則
 
