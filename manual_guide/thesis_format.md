@@ -5,7 +5,7 @@ disqus: ncculogout
 lang: zh-tw
 ---
 
-{%hackmd @NCCU-logout/styles%}
+{%hackmd @NCCU-logout/styles %}
 
 ###### tags: `thesis_format`
 
@@ -42,4 +42,4 @@ lang: zh-tw
 哈哈哈~我很無恥用我好朋友的影片(還沒跟她講)，這影片幫了我很多!!  
 可慮到mac的word可能按鈕位置不一樣，所以提供給大家。
 
-*-* [論文小幫手 - YouTube](https://www.youtube.com/playlist?list=PLsWkND8GHQXQ3tEVTb6jIuNeRAtOabidf)
+* [論文小幫手 - YouTube](https://www.youtube.com/playlist?list=PLsWkND8GHQXQ3tEVTb6jIuNeRAtOabidf)
