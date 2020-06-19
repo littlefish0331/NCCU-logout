@@ -51,4 +51,4 @@ lang: zh-tw
 
 **學校信件:**
 
-![image03](./image/image03.png)
+![image03](https://github.com/littlefish0331/NCCU-logout/blob/master/manual_guide/image/image03.png?raw=true =800x)
