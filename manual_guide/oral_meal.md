@@ -19,14 +19,14 @@ lang: zh-tw
 **Cowbanana:** 烤雞餐盒、咖啡、茶、鮮奶
 
 > :::spoiler 菜單
-> ![cowbanana01](./image/cowbanana01.jpg)
+> ![cowbanana01](https://github.com/littlefish0331/NCCU-logout/blob/master/manual_guide/image/cowbanana01.jpg?raw=true)
 > :::
 
 **路易莎:** 咖啡
 
 > :::spoiler 菜單
-> ![louisa01](./image/louisa01.jpg)
-> ![louisa02](./image/louisa02.jpg)
+> ![louisa01](https://github.com/littlefish0331/NCCU-logout/blob/master/manual_guide/image/louisa01.jpg?raw=true)
+> ![louisa02](https://github.com/littlefish0331/NCCU-logout/blob/master/manual_guide/image/louisa02.jpg?raw=true)
 > :::
 
 **星巴克:** 咖啡
