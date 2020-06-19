@@ -5,7 +5,7 @@ disqus: ncculogout
 lang: zh-tw
 ---
 
-{%hackmd @NCCU-logout/styles%}
+{%hackmd @NCCU-logout/styles %}
 
 ###### tags: `binding_thesis`
 
@@ -21,3 +21,5 @@ lang: zh-tw
     * [後續討論02 | 2019年7月22日](https://www.facebook.com/groups/NCCUSTUDENT/permalink/2418980571481368/)
 
 ## 價碼
+
+目前尚缺參考資料
