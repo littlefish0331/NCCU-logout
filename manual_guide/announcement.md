@@ -287,6 +287,7 @@ lang: zh-tw
 
 * [首頁](https://www.cs.nccu.edu.tw/web/index/index.jsp)
 * [修業規定 - 碩士生](https://www.cs.nccu.edu.tw/web/regulation/regulation.jsp?dm_no=DM1555055933654)
+* [位論文格式規範](http://www.cs.nccu.edu.tw/files/0523/disquisition_form_920704.pdf)
 
 **神經科學研究所:**
 
