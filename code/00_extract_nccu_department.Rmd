@@ -1,0 +1,62 @@
+---
+title: "00_extract"
+author: "Steve, Yu"
+date: "2020/6/18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(dplyr)
+library(data.table)
+library(tabulizer)
+library(knitr)
+opts_chunk$set(echo = TRUE)
+```
+
+---
+
+# reference
+
+**讀取PDF表格資訊:**
+
+[Extracting Tables from PDFs in R using the Tabulizer Package | DataScience+](https://datascienceplus.com/extracting-tables-from-pdfs-in-r-using-the-tabulizer-package/)
+
+**各系所一覽表:**
+
+[109學年度碩士班暨碩士在職專班招生考試各系所組招生名額（含碩甄缺額流用及資通訊領域外加名額）公告 - 國立政治大學](https://www.nccu.edu.tw/p/406-1000-7253,r122.php?Lang=zh-tw)
+
+```{r}
+tmp01 <- extract_tables(file = "../reference_data/109碩士班各系所組招生名額一覽表.pdf", 
+                        encoding = "UTF-8") %>% lapply(., data.table)
+tmp01[[1]]
+tmp01[[2]]
+tmp01[[3]]
+```
+
+只需要系所名稱
+
+```{r}
+tmp02 <- tmp01 %>% lapply(., function(x){
+  x[-c(1:3), .(V1)]
+}) %>% rbindlist()
+```
+
+```{r}
+tmp03 <- tmp02$V1 %>% 
+  gsub("[0-9]+", "", .) %>% 
+  trimws(., "both") %>% 
+  gsub("(.*系).*", "\\1", .) %>% 
+  gsub("(.*研究所).*", "\\1", .) %>% 
+  gsub("(.*學程).*", "\\1", .) %>% 
+  unique() %>% .[.!="合計"]
+```
+
+```{r}
+tmp03 %>% write.table(x = ., file = "./nccu_department.txt", 
+                      row.names = F, col.names = F, quote = F)
+```
+
+
+---
+
+# END

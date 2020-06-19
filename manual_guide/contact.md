@@ -5,6 +5,8 @@ disqus: ncculogout
 lang: zh-tw
 ---
 
+{%hackmd @NCCU-logout/styles%}
+
 ###### tags: `contact` `計畫誕生過程`
 
 # 與作者聯繫
@@ -32,4 +34,3 @@ gantt
     section design
     build      :2020-06-15  , 2d
 ```
-

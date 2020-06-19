@@ -5,12 +5,15 @@ disqus: ncculogout
 lang: zh-tw
 ---
 
+{%hackmd @NCCU-logout/styles%}
+
 ###### tags: `manual`
 
 # 政大碩士 - 畢業+離校教戰手則
 
 - [計畫說明](/@NCCU-logout/README)
 - [常見問題](/@NCCU-logout/FAQ)
+- [重要時程](/@NCCU-logout/deadline)
 - [感謝貢獻](/@NCCU-logout/contributor)
 - [與作者聯繫](/@NCCU-logout/contact)
 
@@ -23,3 +26,5 @@ lang: zh-tw
 ## 裝訂論文
 
 ## 離校RPG
+
+## 官方與各系所公告連結
