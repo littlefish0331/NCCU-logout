@@ -5,7 +5,7 @@ disqus: ncculogout
 lang: zh-tw
 ---
 
-{%hackmd @NCCU-logout/styles%}
+{%hackmd @NCCU-logout/styles %}
 
 ###### tags: `schedule_invite`
 
@@ -18,7 +18,7 @@ lang: zh-tw
 
 ## 調查時間
 
-因為口委有3~4個，所以調查時間，總是要有個方便的工具~  
+因為口委有3 ~ 4個，所以調查時間，總是要有個方便的工具~  
 以下推薦給各位身處地獄的研究生。
 
 * [google表單 如何高效率統計大家有空時間？快速製作約時間問卷一步步教學](https://www.bnext.com.tw/article/45695/google-questionnaire)
@@ -35,13 +35,13 @@ lang: zh-tw
 
 > XXX老師您好，
 >
-> 我是政治大學OO系碩二的研究生 - OOO，  
+> 我是政治大學OO系的研究生 - OOO，  
 > 目前在OOO老師的指導下撰寫碩士論文，我的論文題目是《OOOOOOO》  
 > OOO老師/系辦推薦我找您作為我的口試委員，  
 >
 > 如果時間上允許的話，懇請老師幫忙，再請老師回信跟我說，麻煩老師了。
 >
-> Best Regards,
+> Best Regards,  
 > 學生 👨‍🎓  敬上  
 
 **模板02:**
@@ -53,5 +53,5 @@ lang: zh-tw
 >
 > 確認時間與場地後，會再寄信通知老師。
 >
-> Best Regards,
+> Best Regards,  
 > 學生 👨‍🎓  敬上  
