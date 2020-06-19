@@ -15,6 +15,14 @@ lang: zh-tw
 所以說要完成論文，大概word還是要多熟悉一下，  
 如果有人想加註Latex的方式，也歡迎與我聯絡。
 
+:::spoiler {state="close"} 畢業學長的OS
+
+**聽說今年圖書館會自動幫忙加上"浮水印、DOI碼、加密"，太佛了吧!!!**
+
+為什麼當初沒有嗚嗚嗚~
+
+:::
+
 ## 格式要求
 
 每個系所的格式要求不太一致，  
@@ -40,6 +48,6 @@ lang: zh-tw
 **word on mac:**
 
 哈哈哈~我很無恥用我好朋友的影片(還沒跟她講)，這影片幫了我很多!!  
-可慮到mac的word可能按鈕位置不一樣，所以提供給大家。
+考慮到mac的word可能按鈕位置不一樣，所以提供給大家。
 
 * [論文小幫手 - YouTube](https://www.youtube.com/playlist?list=PLsWkND8GHQXQ3tEVTb6jIuNeRAtOabidf)
