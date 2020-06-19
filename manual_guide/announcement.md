@@ -1,5 +1,5 @@
 ---
-title: announce
+title: announcement
 tags: NCCU-logout
 disqus: ncculogout
 lang: zh-tw
@@ -13,11 +13,24 @@ lang: zh-tw
 不管怎樣還是請大家都以校方或是系上的公告為準，  
 若無連結，表示沒有找到系上公布的連結。
 
+最近政大各系的網頁在改版(好像要統一風格)，anyway~ 有資訊缺漏的可在舊版可找找，跟我說我會再補連結上來。  
 如發現有錯誤，或是過時資訊，請協助[即時回饋]()，本手冊按三餐維護更新(笑~)
 
-***
+---
 
-## 公告連結
+## 國立政治大學博碩士論文全文影像系統 - 相關連結與公告
+
+* [下載區](https://www.lib.nccu.edu.tw/thesis/download.html)
+* [使用手冊](http://thesis.lib.nccu.edu.tw/gs32/stdcdr_nccu/Operating/2-1-1.html)
+
+**重要公告:**
+
+* [109年3月18日起，論文上傳PDF檔不需再自行加入政大浮水印、DOI碼及設定保全](http://thesis.lib.nccu.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=Vqp0Ct/newsresult?search=1&qs0=id=%22N00000014%22&qf0=_hist_)
+* [使用Mac電腦Page軟體完成的PDF檔，系統添加浮水印後無法顯示的問題說明](http://thesis.lib.nccu.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=Vqp0Ct/newsresult?search=1&qs0=id=%22N00000015%22&qf0=_hist_)
+
+---
+
+## 系所公告連結
 
 **中國文學系:**
 
@@ -140,8 +153,19 @@ lang: zh-tw
 * 🔎no no 與碩士生畢業相關公告
 
 **東亞研究所:**
+
+* [首頁](https://eastasia.nccu.edu.tw/)
+* [學生](https://eastasia.nccu.edu.tw/PageDownload?fid=3012)
+
 **俄羅斯研究所:**
+
+* [首頁](https://rustudy.nccu.edu.tw/)
+* 🔎no no 與碩士生畢業相關公告
+
 **日本研究碩士學位學程:**
+
+* [首頁](https://mpjs.nccu.edu.tw/)
+* [學位論文](https://mpjs.nccu.edu.tw/PageDownload?fid=2263)
 
 **國際研究英語碩士學位學程:**
 
@@ -151,31 +175,108 @@ lang: zh-tw
 **國際經營與貿易學系:**
 
 * [首頁](https://ib.nccu.edu.tw/)
-* [國立政治大學國際經營與貿易學系 - 論文口試程序](https://ib.nccu.edu.tw/zh_tw/student_Info/master_0/master_04)
-* [國立政治大學國際經營與貿易學系 - 離校注意事項](https://ib.nccu.edu.tw/zh_tw/student_Info/master_0/master_05)
+* [論文口試程序](https://ib.nccu.edu.tw/zh_tw/student_Info/master_0/master_04)
+* [離校注意事項](https://ib.nccu.edu.tw/zh_tw/student_Info/master_0/master_05)
 
-**企管與行銷組一般生:**
 **金融學系:**
+
+* [首頁](https://banking.nccu.edu.tw/)
+* [碩士班專區](https://banking.nccu.edu.tw/zh_tw/course2)
+
 **會計學系:**
+
+* [首頁](https://acct.nccu.edu.tw/)
+* [碩士班](https://acct.nccu.edu.tw/zh_tw/Download/Master2)
+
 **統計學系:**
+
+* [首頁](https://stat.nccu.edu.tw/)
+* [課程資訊 - 碩士班 - 修業規定](https://stat.nccu.edu.tw/zh_tw/course/Master/Regulations2)
+* [學生手冊 - 碩士班](https://stat.nccu.edu.tw/zh_tw/Student/StudentGuide/master_studentguide)
+* [研究生論文口試流程及離校手續-108](https://github.com/littlefish0331/NCCU-logout/blob/master/reference_data/stat/研究生論文口試流程及離校手續-108.doc?raw=true): 感謝文敏助教提供，點擊下載word檔。
+
 **資訊管理學系:**
+
+* [政治大學商學院-首頁](https://mis2.nccu.edu.tw/)
+* [碩士班](https://mis2.nccu.edu.tw/zh_tw/Download/Download3)
+
 **財務管理學系:**
+
+* [首頁](https://finance.nccu.edu.tw/)
+* [碩士班](https://finance.nccu.edu.tw/zh_tw/Download/down2)
+
 **風險管理與保險學系:**
+
+* [首頁](https://rmi.nccu.edu.tw/)
+* 🔎no no 與碩士生畢業相關公告
+
 **科技管理與智慧財產研究所:**
+
+* [首頁](https://tiipm.nccu.edu.tw/)
+* 🔎no no 與碩士生畢業相關公告
+
 **企業管理研究所:**
+
+* [首頁](https://mba.nccu.edu.tw/)
+* 🔎no no 與碩士生畢業相關公告
+
 **國際經營管理英語碩士學位學程:**
+
+* [首頁](https://commerce.nccu.edu.tw/zh_tw/develop/internationalMBA)
+* 🔎no no 與碩士生畢業相關公告
+
 **傳播學院傳播碩士學位學程:**
 **國際傳播英語碩士學位學程:**
+
+* [首頁](https://comm.nccu.edu.tw/)
+* [傳播學院課程手冊](https://comm.nccu.edu.tw/zh_tw/courses/graduate/105commcoursebrochure)
+
 **數位內容碩士學位學程:**
+
+* [政治大學數位內容學士學程](http://dct.nccu.edu.tw/)
+* [Course - 碩士班](http://dct.nccu.edu.tw/master/)
+* [Document - 論文相關(碩士班)](http://dct.nccu.edu.tw/document/)
+
 **英國語文學系:**
+
+* [首頁](https://english.nccu.edu.tw/)
+* [碩士生](https://english.nccu.edu.tw/PageDownload?fid=5027)
+
 **斯拉夫語文學系:**
+
+* [首頁](https://slavic.nccu.edu.tw/)
+* 🔎no no 與碩士生畢業相關公告
+
 **語言學研究所:**
+
+* [首頁](https://ling.nccu.edu.tw/)
+* [碩士生](https://ling.nccu.edu.tw/PageDownload?fid=3559)
+
 **日本語文學系:**
+
+* [國立政治大學日本語文學系](https://japanese.nccu.edu.tw/)
+* 🔎no no 與碩士生畢業相關公告
+
 **韓國語文學系:**
+
+* [國立政治大學韓國語文學系](https://korean.nccu.edu.tw/)
+* 🔎no no 與碩士生畢業相關公告
+
 **中東與中亞研究碩士學位學程:**
+
+* [首頁](http://www.mecas.nccu.edu.tw/)
+* 🔎no no 與碩士生畢業相關公告
+
 **法律學系:**
 **法律科際整合研究所:**
+
+* [國立政治大學法學院](http://www.law.nccu.edu.tw/)
+* [研究生手冊](http://www.law.nccu.edu.tw/zh_tw/Courses/Master/Master2): 上面tab頁面可選擇 碩士班、法律科際整合研究所、碩士在職專班
+
 **應用數學系:**
+
+* [首頁](https://math.nccu.edu.tw/PageDownload?fid=3938)
+* [碩士班資格考](https://math.nccu.edu.tw/PageDownload?fid=3938)
 
 **心理學系暨心理學研究所:**
 

@@ -1,11 +1,13 @@
 ---
-title: process
+title: logoutRPG
 tags: NCCU-logout
 disqus: ncculogout
 lang: zh-tw
 ---
 
 {%hackmd @NCCU-logout/styles%}
+
+###### tags: `logoutRPG`
 
 # 離校流程
 
@@ -34,3 +36,7 @@ lang: zh-tw
 * 論文諮詢電話：02-2939-3091 分機：62611(圖書館知識組織組)
 
 :::
+
+**學校信件:**
+
+![image03](./image/image03.png)
