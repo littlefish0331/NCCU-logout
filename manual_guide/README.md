@@ -5,13 +5,13 @@ disqus: ncculogout
 lang: zh-tw
 ---
 
-{%hackmd @NCCU-logout/styles%}
+{%hackmd @NCCU-logout/styles %}
 
 ###### tags: `README` `起源` `如何貢獻`
 
 # 計畫說明
 
-內容如有錯誤，請協助[即時回饋]，本手冊按三餐維護更新(笑~)
+內容如有錯誤，請協助即時回饋，本手冊按三餐維護更新(笑~)
 
 ## 宗旨
 
@@ -46,16 +46,17 @@ btw, 這是for政大學生的資源，所以如果是其他學校的朋友，記
 
 :::spoiler {state="close"} **教授!! 我只是想畢業阿~**
 
-![image01](./image/image01.png)
-![image02](./image/image02.png)
+![image01](https://github.com/littlefish0331/NCCU-logout/blob/master/manual_guide/image/image01.png?raw=true =500x)
+![image02](https://github.com/littlefish0331/NCCU-logout/blob/master/manual_guide/image/image02.png?raw=true =500x)
 
 :::
 
 ---
 
+
 ## 如何貢獻
 
-為了保持整潔與維護手冊的一致性，除了[休閒區](/@NCCU-logout/relax)之外，其餘章節暫時先不開放自由編輯。
+為了保持整潔與維護手冊的一致性，除了 [休閒區](/@NCCU-logout/relax) 之外，其餘章節暫時先不開放自由編輯。
 
 如果你/妳想分享一些經驗或資源，或是發現本手冊有需要修改的地方。  
 有幾個管道辦法可以做回饋，依照需求可自由選擇。
