@@ -5,7 +5,7 @@ disqus: ncculogout
 lang: zh-tw
 ---
 
-{%hackmd @NCCU-logout/styles%}
+{%hackmd @NCCU-logout/styles %}
 
 ###### tags: `contributor`
 
