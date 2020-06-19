@@ -5,13 +5,13 @@ disqus: ncculogout
 lang: zh-tw
 ---
 
-{%hackmd @NCCU-logout/styles%}
+{%hackmd @NCCU-logout/styles %}
 
 ###### tags: `content`
 
 # 政大碩士 - 畢業+離校教戰手則
 
-* [計畫說明](/@NCCU-logout/README)
+* [計畫說明(首頁)](/@NCCU-logout/README)
 * [重要時程](/@NCCU-logout/deadline)
 * [離校RPG](/@NCCU-logout/logoutRPG)
 
