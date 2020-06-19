@@ -5,7 +5,7 @@ disqus: hackmd
 lang: zh-tw
 ---
 
-{%hackmd @NCCU-logout/styles%}
+{%hackmd @NCCU-logout/styles %}
 
 ###### tags: `maintain` `連動機制` `md差異`
 
