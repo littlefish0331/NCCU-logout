@@ -32,6 +32,10 @@ lang: zh-tw
 * [好心人整理](/@NCCU-logout/somebody_collect_data)
 * [各系所公告](/@NCCU-logout/announcement_depart)
 
+## 小工具
+
+* [Latex 資源連結](/@NCCU-logout/latex_resource)
+
 ## 其他
 
 * [常見問題](/@NCCU-logout/FAQ)
