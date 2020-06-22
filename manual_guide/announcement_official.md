@@ -59,6 +59,7 @@ lang: zh-tw
 
 雖然已經是可以找到的最新消息了，但還是注意公告時間。
 
+* [辦理碩、博士班學生領取學位證書作業流程](https://aca.nccu.edu.tw/download/flowProcess/file/register/register34.pdf)
 * [政治大學教務處 - 學位考試及離校規定](https://aca.nccu.edu.tw/zh/?option=com_content&view=article&id=4526)
 * [研究生同學自108年8月1日起，提出學位考試申請應進行論文比對，請注意！！](https://aca.nccu.edu.tw/zh/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/%E8%A8%BB%E5%86%8A%E7%B5%84-2/4782-%E7%A0%94%E7%A9%B6%E7%94%9F%E5%90%8C%E5%AD%B8%E8%AB%8B%E6%B3%A8%E6%84%8F%EF%BC%8C108%E5%B9%B48%E6%9C%881%E6%97%A5%E8%B5%B7%EF%BC%8C%E6%8F%90%E5%87%BA%E5%AD%B8%E4%BD%8D%E8%80%83%E8%A9%A6%E7%94%B3%E8%AB%8B%E8%AB%8B%E4%BE%9D%E7%9B%B8%E9%97%9C%E8%A6%8F%E5%AE%9A%E8%BE%A6%E7%90%86%E3%80%82)
 * [研究生申請學位考試及畢業離校流程公告版.pdf](http://aca.nccu.edu.tw/db/upload/%e7%a0%94%e7%a9%b6%e7%94%9f%e7%94%b3%e8%ab%8b%e5%ad%b8%e4%bd%8d%e8%80%83%e8%a9%a6%e5%8f%8a%e7%95%a2%e6%a5%ad%e9%9b%a2%e6%a0%a1%e6%b5%81%e7%a8%8b%e5%85%ac%e5%91%8a%e7%89%88.pdf)
