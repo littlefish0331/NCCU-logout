@@ -35,7 +35,7 @@ lang: zh-tw
 
 :::info  
 :::spoiler {state="close"} 圖片說明
-![image07 - 最新消息]()
+![image07 - 最新消息](https://github.com/littlefish0331/NCCU-logout/blob/master/manual_guide/image/image07.jpg?raw=true)
 :::
 
 > - 【108學年度第二學期】論文上傳說明會，歡迎報名參加
@@ -50,7 +50,7 @@ lang: zh-tw
 
 - [國立政治大學 圖書館](https://www.lib.nccu.edu.tw/zh_tw/2/201)
 > :::spoiler 圖片支援
-> ![2020-06-24~2020-09-13](https://www.lib.nccu.edu.tw/uploads/asset/data/5eec6d781d41c867e3001a28/2020%E6%9A%91%E5%81%87.JPG)
+> ![2020-06-24~2020-09-13](https://github.com/littlefish0331/NCCU-logout/blob/master/manual_guide/image/image06.jpg?raw=true)
 > :::
 
 ---
