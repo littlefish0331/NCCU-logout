@@ -24,10 +24,13 @@ lang: zh-tw
 
 * [調查時間與邀請](/@NCCU-logout/schedule_invite)
 * [口試餐點](/@NCCU-logout/oral_meal)
+* [PPT模板](/@NCCU-logout/ppt_template)
 
-## 官方與各系所公告連結
+## 官方、各系所公告連結
 
-* [學校及各系所公告](/@NCCU-logout/announcement)
+* [校方單位公告](/@NCCU-logout/announcement_official)
+* [好心人整理](/@NCCU-logout/somebody_collect_data)
+* [各系所公告](/@NCCU-logout/announcement_depart)
 
 ## 其他
 
