@@ -1,5 +1,5 @@
 ---
-title: announcement
+title: announcement_depart
 tags: NCCU-logout
 disqus: ncculogout
 lang: zh-tw
@@ -7,9 +7,12 @@ lang: zh-tw
 
 {%hackmd @NCCU-logout/styles %}
 
-# 學校及各系所公告
+###### tags: `announcement_depart`
 
-盡可能地收集，並有"稍微"確認是最新的資訊，不管怎樣還是請大家都以校方或是系上的公告為準，  
+# 各系所公告
+
+盡可能地收集，並有"稍微"確認是最新的資訊，  
+不管怎樣還是請大家都以校方或是系上的公告為準，  
 若無連結，表示沒有找到系上公布的連結。
 
 最近政大各系的網頁在改版(好像要統一風格)，anyway~ 有資訊缺漏的可在舊版可找找，跟我說我會再補連結上來。  
@@ -20,19 +23,6 @@ lang: zh-tw
 善用 Ctrl + F 搜尋功能
 
 :::
-
-
----
-
-## 國立政治大學博碩士論文全文影像系統 - 相關連結與公告
-
-* [下載區](https://www.lib.nccu.edu.tw/thesis/download.html)
-* [使用手冊](http://thesis.lib.nccu.edu.tw/gs32/stdcdr_nccu/Operating/2-1-1.html)
-
-**重要公告:**
-
-* [109年3月18日起，論文上傳PDF檔不需再自行加入政大浮水印、DOI碼及設定保全](http://thesis.lib.nccu.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=Vqp0Ct/newsresult?search=1&qs0=id=%22N00000014%22&qf0=_hist_)
-* [使用Mac電腦Page軟體完成的PDF檔，系統添加浮水印後無法顯示的問題說明](http://thesis.lib.nccu.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=Vqp0Ct/newsresult?search=1&qs0=id=%22N00000015%22&qf0=_hist_)
 
 ---
 
