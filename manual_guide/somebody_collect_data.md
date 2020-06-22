@@ -22,5 +22,9 @@ lang: zh-tw
 
 **英文系:**
 
-- [許媁涵 | 108學年度第二學期 | 2020.08 畢業](https://drive.google.com/file/d/1Gan1amw5JzDUKy701hIUwrlFE2Wy94CO/view?usp=sharing)
+* [許媁涵 | 108學年度第二學期 | 2020.08 畢業](https://drive.google.com/file/d/1Gan1amw5JzDUKy701hIUwrlFE2Wy94CO/view?usp=sharing)
+
+**統計系:**
+
+* [研究生論文口試流程及離校手續 | 楊文敏 |108學年](https://github.com/littlefish0331/NCCU-logout/blob/master/reference_data/stat/研究生論文口試流程及離校手續-108.doc?raw=true): 感謝文敏助教提供，點擊下載word檔。
 
