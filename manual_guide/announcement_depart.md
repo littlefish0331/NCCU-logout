@@ -189,7 +189,6 @@ lang: zh-tw
 * [首頁](https://stat.nccu.edu.tw/)
 * [課程資訊 - 碩士班 - 修業規定](https://stat.nccu.edu.tw/zh_tw/course/Master/Regulations2)
 * [學生手冊 - 碩士班](https://stat.nccu.edu.tw/zh_tw/Student/StudentGuide/master_studentguide)
-* [研究生論文口試流程及離校手續-108](https://github.com/littlefish0331/NCCU-logout/blob/master/reference_data/stat/研究生論文口試流程及離校手續-108.doc?raw=true): 感謝文敏助教提供，點擊下載word檔。
 
 **資訊管理學系:**
 
