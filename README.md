@@ -1,6 +1,6 @@
 # README
 
-[![hackmd-github-sync-badge](https://hackmd.io/c7-IhrgyQ6mp_DWj_NUV7Q/badge)](https://hackmd.io/c7-IhrgyQ6mp_DWj_NUV7Q)
+[![hackmd-github-sync-badge](https://hackmd.io/c7-IhrgyQ6mp_DWj_NUV7Q/badge)](https://hackmd.io/@NCCU-logout/content/%2F%40NCCU-logout%2FREADME)
 
 最後更新時間: 2020-06-17 (以github commit為準)
 
