@@ -5,6 +5,8 @@ disqus: ncculogout
 lang: zh-tw
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/c7-IhrgyQ6mp_DWj_NUV7Q/badge)](https://hackmd.io/c7-IhrgyQ6mp_DWj_NUV7Q)
+
 {%hackmd @NCCU-logout/styles %}
 
 ###### tags: `README` `起源` `如何回饋`
