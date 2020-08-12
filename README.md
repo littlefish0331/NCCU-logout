@@ -2,8 +2,6 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/c7-IhrgyQ6mp_DWj_NUV7Q/badge)](https://hackmd.io/@NCCU-logout/content/%2F%40NCCU-logout%2FREADME)
 
-[![littlefish0331's github stats](https://github-readme-stats.vercel.app/api?username=littlefish0331)](https://github.com/anuraghazra/github-readme-stats)
-
 最後更新時間: 2020-06-17 (以github commit為準)
 
 這個 repository 是希望造福後來的學弟妹，在碩士生涯的最後一哩路，能夠快速通關。  
